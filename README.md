@@ -1,0 +1,1 @@
+# teradata-y2d
